@@ -1243,7 +1243,7 @@ plt.show()
 
 
     
-![output_74_0.png](output_74_0.png)
+![png](NB_CStreet_Pima+Indians+Diabetes+Analysis/output_74_0.png)
     
 
 
