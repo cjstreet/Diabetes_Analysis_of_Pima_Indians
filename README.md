@@ -606,7 +606,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](NB_CStreet_Pima+Indians+Diabetes+Analysis/output_32_0.png)
     
 
 
@@ -991,7 +991,7 @@ plt.show()
 
 
     
-![png](output_52_0.png)
+![png](NB_CStreet_Pima+Indians+Diabetes+Analysis/output_52_0.png)
     
 
 
@@ -1009,7 +1009,7 @@ plt.show()
 
 
     
-![png](output_56_0.png)
+![png](NB_CStreet_Pima+Indians+Diabetes+Analysis/output_56_0.png)
     
 
 
@@ -1027,7 +1027,7 @@ plt.show()
 
 
     
-![png](output_60_0.png)
+![png](NB_CStreet_Pima+Indians+Diabetes+Analysis/output_60_0.png)
     
 
 
@@ -1047,7 +1047,7 @@ plt.show()
 
 
     
-![png](output_64_0.png)
+![png](NB_CStreet_Pima+Indians+Diabetes+Analysis/output_64_0.png)
     
 
 
@@ -1062,7 +1062,7 @@ plt.show()
 
 
     
-![png](output_65_0.png)
+![png](NB_CStreet_Pima+Indians+Diabetes+Analysis/output_65_0.png)
     
 
 
