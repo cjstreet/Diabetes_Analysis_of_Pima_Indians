@@ -1,4 +1,4 @@
-# Diabetes_Analysis_of_Pima_Indians
+# Diabetes Analysis of Pima_Indians
 Exploratory Data Analysis, Data Visualization, Statistics
 
 ---------------
